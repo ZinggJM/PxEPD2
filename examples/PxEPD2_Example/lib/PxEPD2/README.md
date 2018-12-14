@@ -1,7 +1,7 @@
 # GxEPD2_PP
 ## Experimental Particle Display Library for SPI E-Paper Displays
 
-## only use was to analyze issues with Particle Desktop IDE
+## only use is to show issues with Particle Desktop IDE
 
 - With full Graphics and Text support using Adafruit_GFX  (Adafruit_GFX_RK Version 1.3.5)
 
@@ -10,8 +10,7 @@
 
 ## Flat Source Structure Variant of GxEPD2_PP ( Arduino GxEPD2)
 - works with Particle Build WEB-IDE and Particle CLI command line tool
-- only use was to analyze issues with Particle Desktop IDE
-- PxEPD2_Example also works with Particle Desktop IDE
+- only use is to show issues with Particle Desktop IDE
 
 ### important note :
  - these displays are for 3.3V supply and 3.3V data lines.
@@ -45,4 +44,4 @@
 ### Version 1.0.3
 - preliminary version
 - based on GxEPD2 Version 1.1.0
-- example PxEPD2_Example has a project local library to analyze a Desktop IDE issue
+- example PxEPD2_Example has a project local library to show the Desktop IDE issue
