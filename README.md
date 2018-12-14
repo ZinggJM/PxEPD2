@@ -1,4 +1,4 @@
-# GxEPD2_PP
+# PxEPD2
 ## Experimental Particle Display Library for SPI E-Paper Displays
 
 ## only use was to analyze issues with Particle Desktop IDE
